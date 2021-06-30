@@ -1,0 +1,212 @@
+<!DOCTYPE html></WhoMHw>
+
+<!-- HedyGans -->
+
+<html>
+
+	<head>
+		<title>Terkunci By WhoMHw?</title>
+
+		<meta name="description" content="Sorry Kesenggol :)">
+
+		<meta name="description" content="Cinta Kok LDR ">
+
+		<link rel="icon" type="imge/jpg" href="https://pbs.twimg.com/media/CAWw7gJUUAA4dAm.jpg"/>
+
+		<link href='http://fonts.googleapis.com/css?family=Iceland' rel='stylesheet' type='text/css'>
+
+	</head>
+
+	<head>
+
+		<div class="hedy">
+
+			<center><font color="green"><h1>Terkunci By MHw</h1></font></center>
+
+		</div>
+
+	</head>
+
+	<body>
+
+		<script src="https://cdn.rawgit.com/bungfrangki/efeksalju/2a7805c7/efek-salju.js" type="text/javascript"></script>
+
+		<center><img src="https://3.bp.blogspot.com/-_tqRFGILxv0/U2I0_ZZsdWI/AAAAAAAAKC8/hqihahr6ylU/s1600/Gambar+Animasi+Sedih+Pokemon+Menangis+Kartun+Bergerak+Galau+Lucu.gif" width="300" height="300"></center>
+
+	</body>
+
+	<head>
+
+		<div class="cok">
+
+			<center><h1>xXx Sempat Mencintai Tapi Tidak Bisa Memiliki.!xXx<br>~~</h1></center>
+
+		</div>
+
+		<div class="Iceland">
+
+			<center><h2>=| Susah ya jadi orang jelek |=<br>=| tidak pernah dicintai,tapi bisanya cuman mencintai :( |=</h2></center>
+
+		</div>
+
+		<div class="nama">
+
+			<center><p>xXx Team: Malicious Hc =||= Malaikat Tak Bersayap =||= Team Mods =||= WongNdeso xXx</p></center>
+
+		</div>
+
+		<div class="wibi">
+
+			<button onclick="play()">Putar Musik</button>
+
+		</div>
+
+		</div>
+
+		<body>
+
+			<audio id="lagu" src="http://d.top4top.io/m-1862xnnud0.mp3"></audio>
+
+		</body>
+
+	</head>
+
+	<style>
+
+		.Iceland{
+
+			font-family: 'Courier New', Courier, monospace;
+
+			font-variant-alternates: text;
+
+			font-size: inherit;
+
+			color: white; text-shadow: 1px 1px 2px black, 0 0 25px red, 0 0 5px darkred;
+
+
+
+		}
+
+		.nama{
+
+			font-family: 'Courier New', Courier, monospace;
+
+			font-size: 17px;
+
+			font-variant-caps: inherit;
+
+			}
+
+		.hedy{
+
+			font-family: 'Courier New', Courier, monospace;
+
+			font-size: 20px;
+
+			font-variant-caps: inherit;
+
+		}
+
+		.cok{
+
+			font-family: 'Courier New', Courier, monospace;
+
+			font-variant-caps: inherit;
+
+			font-size: 10px;
+
+		}
+
+		.tulis{
+
+			font-family: 'Courier New', Courier, monospace;
+
+			font: outline;
+
+		}
+
+		body{
+
+			background-color: white;
+
+			-ms-block-progression: bt;
+
+			background-attachment: fixed;
+
+		}
+
+		.wibi{
+
+			text-align: center;
+
+		}
+
+		button{
+
+			width: 40%;
+
+			padding: 5px 0;
+
+			border: none;
+
+			background-color:#b5123e;
+
+			font-size: 18px;
+
+			color: #71b33ca8;
+
+			}
+
+	</style>
+
+	<script>
+
+
+
+function play(){
+
+		alert('Cinta Kok LDR.!');
+
+		var audio = document.getElementById("lagu"); audio.play();
+
+	}
+
+		var salam =prompt('ASSALAMUALAIKUM.!','')
+
+		var nama = prompt('Hai Ukthea Boleh kenalan Ga?','')
+
+		if (salam){
+
+			alert('Nah Gitu Jawab')
+
+		}else{
+
+			alert('Ga Jawab Dosa ')
+
+		}
+
+		if (nama){
+
+			alert('Hai Mau Ga sama aku I Love You');
+
+			alert('Saya Tidak Mengembil File-File Diweb ini')
+
+			alert('Saya Hanya Menutup Celah')
+
+			alert('Terkunci By WhoMHw?')
+
+		}else{
+
+			alert('Lu Laki Ya Asw')
+
+			alert('Saya Tidak Mengembil File-File Diweb ini')
+
+			alert('Saya Hanya Menutup Celah')
+
+			alert('Terkunci By WhoMHw?')
+
+		}
+
+		
+
+	</script>
